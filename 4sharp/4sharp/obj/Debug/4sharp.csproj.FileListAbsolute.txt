@@ -1,0 +1,6 @@
+D:\studies\PL\4\4sharp\4sharp\bin\Debug\4sharp.exe.config
+D:\studies\PL\4\4sharp\4sharp\bin\Debug\4sharp.exe
+D:\studies\PL\4\4sharp\4sharp\bin\Debug\4sharp.pdb
+D:\studies\PL\4\4sharp\4sharp\obj\Debug\4sharp.csprojResolveAssemblyReference.cache
+D:\studies\PL\4\4sharp\4sharp\obj\Debug\4sharp.exe
+D:\studies\PL\4\4sharp\4sharp\obj\Debug\4sharp.pdb
